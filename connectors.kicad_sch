@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "2a86b94d-88a8-4b6b-aa63-14058809c73c")
+	(uuid "3f3901c7-94c5-46ac-96b6-836beab98929")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -1042,7 +1042,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
 			(at 87.63 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1152,7 +1152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 125.73 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1253,7 +1253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ATMEGA328P-AU_SL044:QFP80P900X900X120-32N"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 87.63 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -1348,7 +1348,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 121.92 63.5 0)
 			(hide yes)
 			(show_name no)
