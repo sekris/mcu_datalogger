@@ -2820,18 +2820,6 @@
 		(uuid "382515ac-7ca2-4400-abd8-7500fa1ea123")
 	)
 	(rectangle
-		(start 242.57 127.508)
-		(end 271.272 154.94)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "da31b9ea-45fc-425f-952a-33c56ffc03f8")
-	)
-	(rectangle
 		(start 132.715 19.685)
 		(end 259.08 104.14)
 		(stroke
@@ -2842,16 +2830,6 @@
 			(type none)
 		)
 		(uuid "fe35ddaa-c213-457c-9120-f64bccedfa07")
-	)
-	(text "MOUNTING HOLES"
-		(exclude_from_sim no)
-		(at 250.19 126.365 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5ca5714e-7bff-4def-a8ad-ec6329411f9a")
 	)
 	(text "MICROCONTROLLER UNIT"
 		(exclude_from_sim no)
