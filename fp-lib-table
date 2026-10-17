@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DesignBlocks") (type "KiCad") (uri "D:/PROJECTS/KiCad/_DesignBlocks/DesignBlocks.pretty") (options "") (descr ""))
+)
